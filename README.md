@@ -46,6 +46,6 @@
 
 <div align="center">
 
-✨ Always learning, always coding ✨  
+✨ Getting better everyday, by coding! ✨  
 
 </div>
